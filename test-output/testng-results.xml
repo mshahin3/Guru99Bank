@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35667" started-at="2021-09-13T10:04:31 EDT" finished-at="2021-09-13T10:05:06 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35667" started-at="2021-09-13T10:04:31 EDT" finished-at="2021-09-13T10:05:06 EDT">
+      <class name="com.guru99.testCases.NewCustomerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="setUp" is-config="true" duration-ms="15905" started-at="2021-09-13T10:04:31 EDT" finished-at="2021-09-13T10:04:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="getTitle" duration-ms="24" started-at="2021-09-13T10:04:47 EDT" finished-at="2021-09-13T10:04:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="testCustomerCreationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="testCustomerCreationPage" duration-ms="4040" started-at="2021-09-13T10:04:48 EDT" data-provider="getCustomerData" finished-at="2021-09-13T10:04:52 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jimmy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10-06-1990]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Qwerty]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[125474]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567920]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test10110129@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerCreationPage -->
+        <test-method status="PASS" signature="testCustomerCreationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="testCustomerCreationPage" duration-ms="3973" started-at="2021-09-13T10:04:52 EDT" data-provider="getCustomerData" finished-at="2021-09-13T10:04:56 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tommy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[07-06-1990]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Qasdfgh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Qazsdf]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[125475]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7974564552]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test201102@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[794564.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerCreationPage -->
+        <test-method status="PASS" signature="testCustomerCreationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="testCustomerCreationPage" duration-ms="3926" started-at="2021-09-13T10:04:56 EDT" data-provider="getCustomerData" finished-at="2021-09-13T10:05:00 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[02-09-1990]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kjhjkhjhj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hkjhjkhj]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[asdfgh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[125476]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1257496794]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test301301@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[741963.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerCreationPage -->
+        <test-method status="PASS" signature="testCustomerCreationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="testCustomerCreationPage" duration-ms="4276" started-at="2021-09-13T10:05:00 EDT" data-provider="getCustomerData" finished-at="2021-09-13T10:05:05 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dale]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[06-09-1998]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jlkjkljkllkj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[uoiuiou]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[mnbvc]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[125477]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5741963522]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test401401@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[456123.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerCreationPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.testCases.NewCustomerTest@710726a3]" name="tearDown" is-config="true" duration-ms="1744" started-at="2021-09-13T10:05:05 EDT" finished-at="2021-09-13T10:05:06 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.testCases.NewCustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
