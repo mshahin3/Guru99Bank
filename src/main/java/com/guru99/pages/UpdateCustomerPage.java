@@ -12,5 +12,5 @@ public class UpdateCustomerPage extends BasePage {
 	public UpdateCustomerPage(WebDriver driver) {
 		this.driver = driver;
 	}
-
+//add comments to the updateCustomer page
 }
